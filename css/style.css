@@ -1,0 +1,17 @@
+#container{
+    background-color: black;
+}
+.pad{
+    align-items: center;
+}
+.white{
+    color: white;
+}
+#bar{
+    font-family:Tahoma;
+    padding: 1rem;
+    font-size: 60px;
+    color: white;
+    background-color: black;
+
+}
